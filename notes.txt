@@ -1,3 +1,6 @@
 Creating a repo named identically to your handle creates a landing page. 
 
 Recommend not renaming and editing a file in the same commit. 
+
+Merge conflicts:
+https://nceas.github.io/scicomp-workshop-collaborative-coding/conflicts.html
