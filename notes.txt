@@ -1,1 +1,3 @@
 Creating a repo named identically to your handle creates a landing page. 
+
+Recommend not renaming and editing a file in the same commit. 
